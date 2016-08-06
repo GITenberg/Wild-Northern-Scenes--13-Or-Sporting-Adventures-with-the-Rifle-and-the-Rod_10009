@@ -1,0 +1,26 @@
+_repo: Wild-Northern-Scenes--13-Or-Sporting-Adventures-with-the-Rifle-and-the-Rod_10009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hammond, S. H. (Samuel H.)
+    alias: Hammond, Samuel H.
+    birthdate: 1809
+    deathdate: 1878
+    gutenberg_agent_id: '3265'
+    url: http://www.gutenberg.org/2009/agents/3265
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Hunting -- New York (State)'
+- !lcsh 'Fishing -- New York (State)'
+- GITenberg
+title: "Wild Northern Scenes\r\nOr, Sporting Adventures with the Rifle and the Rod"
+url: http://www.gutenberg.org/ebooks/10009
